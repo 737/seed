@@ -25,7 +25,7 @@ svn delete  简写：svn del/remove/rm
 ```
 svn update  简写 svn up
 svn update  更新所有文件
-svn update -r 200 index.js  (将版本库中的文件test.php还原到版本200)
+svn update -r 200 index.js  (将版本库中的文件index.js还原到版本200)
 svn update index.js  (更新单一文件，于版本库同步。如果在提交的时候提示过期的话，是因为冲突，需要先update，修改文件，然后清除svn resolved，最后再提交commit)
 ```
 
