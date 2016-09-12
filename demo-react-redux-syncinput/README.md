@@ -19,9 +19,9 @@
 
 
 
-### 参考
+## 3.参考
 
-* [Redux 中文文档](http://cn.redux.js.org/)
+> [Redux 中文文档](http://cn.redux.js.org/)
 
 
 

@@ -37,3 +37,6 @@ var state = {
 ## 3. Reducer
 
 本质是更新`state`的函数
+
+## 4.参考
+> [Redux中文文档](http://cn.redux.js.org/docs/introduction/Motivation.html)
