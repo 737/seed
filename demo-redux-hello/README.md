@@ -1,19 +1,21 @@
+> ## 1.Redux
+> ## 2.React + Redux
+> ## 3.webpack/webpack-dev-server
 
 
+
+-------------------------------
 # Redux
-
-> store.getState()  
-> 
 
 ## 1. store & state
 
 `state` 是应用的状态，理论是一个**对象**
 
 ```
-    // 例如
-    var state = {
-        text: 'Hello World'
-    };
+// 例如
+var state = {
+    text: 'Hello World'
+};
 ```
 
 `store` 是应用状态 `state` 的管理者，包含下列四个函数：
